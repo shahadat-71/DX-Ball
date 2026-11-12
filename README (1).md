@@ -92,3 +92,8 @@ These files store player names and scores.
 Computer Science and Engineering
 
 ---
+## Technologies Used
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl)
+![GLUT](https://img.shields.io/badge/GLUT-Graphics_Library-green?style=for-the-badge)
